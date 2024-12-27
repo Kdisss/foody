@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Wintery Christmas' !important ;
+}
+
+.navbar-brand{
+  font-family: 'TMT Paint' !important ;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#carousel{
+  max-height: 700px;
+}
+
+
+
+@import url(https://db.onlinewebfonts.com/c/de52022f46fb031964844a84bb5e0604?family=Grotesk);
+@import url(https://db.onlinewebfonts.com/c/6d32b8e06f40fb7698cfb714b9e7975d?family=Billabong+W00+Regular);
+@import url(https://db.onlinewebfonts.com/c/70990b2085d920b6edf8ad25faba5b5d?family=Wintery+Christmas);
+@import url(https://db.onlinewebfonts.com/c/c2a47ca2ad6d576088baa0305e70a469?family=TMT+Paint);
